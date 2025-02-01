@@ -1,8 +1,7 @@
-# React + Vite
+Create a simple Todo List application using React and add headings and associated lists to organize tasks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Manage the todo items ans delete specific headings and lists, provide basic CRUD (Create, Read, Update, Delete) functionality.
 
-Currently, two official plugins are available:
+Use React's useState hook to manage the state of the Todo List, including the list of headings and associated lists.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Use React's useState hook also to render the values dynamically.
